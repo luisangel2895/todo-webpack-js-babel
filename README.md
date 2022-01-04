@@ -1,6 +1,7 @@
-# Webpack Template
+# Todo List Webpack Js Babel
 
-This is a basic template of webpack with babel
+This is a todo list with webpack, pure js and babel, show the project:
+[Go to Project](https://luisangel2895.github.io/todo-webpack-js-babel/)
 
 ### Start
 
