@@ -5,7 +5,7 @@ This is a todo list with webpack, pure js and babel, show the project:
 
 ### Images
 
-![todo-image](https://github.com/luisangel2895/todo-webpack-js-babel)
+![todo-image](https://github.com/luisangel2895/todo-webpack-js-babel/blob/689f972152a81e581cf54ce11ef51a2d5b84d2af/images/Screenshot_1.png)
 
 ### Start
 
